@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/01 Basic ShadowMap/01 Basic ShadowMap.unity
+  isLoaded: 1
+  isActive: 1
